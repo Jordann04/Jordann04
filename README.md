@@ -10,10 +10,11 @@ Welcome to my GitHub profile! I'm a motivated cybersecurity enthusiast with a st
 
 A smart tool designed to:
 
-- Automatically detect and analyze new CVEs
+- Automatically detect and analyze new CVEs Dynamically
 - Generate Snort IDS/IPS rules from Vulners CVE data
 - Integrate with Discord for quick access
 - Support future CLI and Sigma/Suricata rule formats
+- Continuously updated to stay aligned with current threat landscapes and technologies  
 
 This project shows my ability to automate threat intelligence and build useful tools for defenders.
 
@@ -62,7 +63,7 @@ Although I don’t have professional company experience, Ive been doing IT freen
 
 ---
 
-Thanks for stopping by. If you're hiring, collaborating, or just exploring — feel free to reach out or  my repo!
+Thanks for visiting!
 <!---
 Jordann04/Jordann04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
