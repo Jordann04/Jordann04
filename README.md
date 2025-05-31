@@ -51,7 +51,7 @@ I'm currently open to:
 - **Help desk / technical support roles with security focus**
  
 
-Although I don’t have professional company experience, Ive been doing IT freenlance for 2 years and have developed and published functional security tools, worked independently, and continuously grow my skills through hands-on development and study.
+Although I don’t have professional company experience, Ive been doing IT freelance work for 2 years, developed and published functional security tools, worked independently, and continuously grow my skills through hands-on development and study.
 
 ---
 
