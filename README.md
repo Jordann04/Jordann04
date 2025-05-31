@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a motivated cybersecurity enthusiast with a st
 
 A smart tool designed to:
 
-- Dynamically detects and analyzes new CVEs  
+- Dynamically detect and analyze new CVEs  
 - Generate Snort IDS/IPS rules from Vulners CVE data
 - Integrate with Discord for quick access
 - Support future CLI and Sigma/Suricata rule formats
