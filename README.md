@@ -12,8 +12,8 @@ A smart tool designed to:
 
 - Dynamically detect and analyze new CVEs  
 - Generate Snort IDS/IPS rules from Vulners CVE data
-- Integrate with Discord for quick access
-- Support future CLI and Sigma/Suricata rule formats
+- fully CLI functional
+- its also able to intergrate with discord via Discord.py
 - Continuously updated to stay aligned with current threat landscapes and technologies  
 
 This project shows my ability to automate threat intelligence and build useful tools for defenders.
